@@ -61,6 +61,6 @@ after that, this is the second use of the put
 
 we can see that the request put craated a especific function.
 
-![](REST_API-SpringBoot-Cinema/img/PutH4.PNG)
+![](REST_API-SpringBoot-Cinema/img/Puth4.PNG)
 
 
